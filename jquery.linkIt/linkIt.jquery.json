@@ -1,0 +1,52 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Jim Shaw",
+        "url": "https://github.com/jimxshaw/jquery.linkIt"
+    },
+    "maintainers": [
+        {
+            "name": "Jim Shaw",
+            "url": "https://github.com/jimxshaw/jquery.linkIt"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jimxshaw/jquery.linkIt/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/jimxshaw/jquery.linkIt",
+    "docs": "https://github.com/jimxshaw/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
